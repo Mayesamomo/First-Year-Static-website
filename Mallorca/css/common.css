@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, Helvetica sans-serif;
+    text-align:center;
+    background-image: url("../images/MallorcaLogo.png");
+}
+
+
+header{ width: 100&;
+	text-align: center;
+	vertical-align: center
+	background-color:#f1f1f1;
+	padding: 20px
+
+		}
+
+
+.topnav {
+    overflow: scroll;
+    background-color: green;
+     }
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+.topnav a:hover {
+    background-color: #dddddd;
+    color: black;
+       }
+
+a{ display: block;
+	margin: 0.3em
+		}
+
+
+#mallorcaImage {
+	float: right;
+	margin: 0em 0em 1em 1em
+			}
+
+h1,{
+	color: black;
+	background-color: red;
+	text-align: center;
+		}
+h2{
+	background-color: purple
+}
+ h4{
+ 	background-color: green	
+  }
+<
+h1{
+	font-size: 2em;
+	letter-spacing: 0.4em;
+	text-indent: 1em
+		}
+
+h2{
+	width: 20em
+	padding-left: 1em
+   }
+
+
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    }
+
+address{
+	text-align: center;
+	font:normal small-caps 0.8em sans-serif;
+	border-top: 0.5em double green;
+	padding-top:1em;
+      }
+
+ #section2 ul:{list-style-image: url(...'/images/favicon.ico')
+          
+   
+
